@@ -1,14 +1,14 @@
 # Innovators_2021
 
 
-1. Título de la Idea del desarrollo
+1. [Título de la Idea del desarrollo](https://github.com/dgak050n/Innovators_2021/blob/main/1-T%C3%ADtulo-100)
 
     **CEV Libertad y Compromiso al volante**
 
     Merezco una nueva oportunidad, y no fallaré.
 
 
-2. Detalle de la idea
+2. [Detalle de la idea](https://github.com/dgak050n/Innovators_2021/blob/main/2-Resumen-500)
 
     **Conducción Electro-Vigilada**
 
