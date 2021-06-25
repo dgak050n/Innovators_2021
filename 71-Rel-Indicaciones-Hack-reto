@@ -1,0 +1,72 @@
+
+
+En el caso del Hack reto existirá un campo adicional denominado Código en GitHub para que los Participantes indiquen la dirección URL del repositorio de GitHub en el que han depositado el código asociado a su Idea.
+
+Todas las ideas serán valoradas antes de su publicación en un plazo máximo de 2 días laborables.
+
+#Cómo participar en el Hack reto
+
+1. Todos los Participantes en el Hack Reto deberán contar con un usuario registrado en GitHub.
+[Listo:  dgak050n]
+
+2. Los Participantes crearán un repositorio de proyecto público en Github para el trabajo en grupo. Este repositorio podrá ser accedido por un usuario de Minsait que será comunicado durante el proceso.
+[Listo: https://dgak050n.github.io/Innovators_2021/]
+
+3. Un Participante o Equipo Participante comunica por correo electrónico a la dirección innovators@onesaitplatform.com la siguiente información:
+
+    1. Título de la Idea del desarrollo que quieren montar
+[Listo: **CEV Libertad y Compromiso al volante**
+*Merezco una nueva oportunidad, y no fallaré.*]
+    2. Detalle de la idea
+[Listo: **Conducción Electro-Vigilada.*
+*Dispositivo IoT portado y enlazado a celular asegurará el cumplimiento de la ley de tránsito de personas sancionadas, permitiendo la conducción por motivos laborales o justificados. Tras una autorización judicial, el beneficiado -usando el dispositivo- estará habilitado para volver a conducir según las condiciones legales e impuestas, siendo forzado a cumplirlas. El registro será la demostración del compromiso y su análisis determinará conductas riesgosas.*]
+    3. Nombre del Equipo
+[Listo: **DEGG**]
+    4. Miembros del Equipo, indicando el Id de usuarios de Indra que lo forman
+[Listo: **Solo yo Daniel Esteban González Galaz, Id.: degonzalez, Nro.: 461397**]
+    5. Información de acceso a tu repositorio en GitHub.
+[Listo: https://dgak050n.github.io/Innovators_2021/]
+
+    6. En caso de que la idea utilice IoT, especificar el pack que se solicita y explicación del uso del pack debidamente justificada.
+[Listo: **Solicito pack 2 M5-Stack Atom.**  
+*Los sensores de temperatura y humedad serán usados como equivalencia de los sensores que en realidad necesito (sensor de sudor y sustancias que determinan el nivel de alcohol en sangre)*]
+
+Para conseguir uno de los packs, sé uno de los primeros 30 Participantes en proponer tu idea y explicar detalladamente cómo los vas a usar. Podrás solicitar uno de los siguientes packs de dispositivos de prototipado rápido IoT del ecosistema M5Stack Stick o M5Stack Atom:
+
+* Pack 1.- M5Stack-Stick-C + cable Grove + Unit V (unidad de extensión con cámara y chip de IA RISC-V k210).
+
+* Pack 2.- M5Stack-Stick-C + Cables Grove + Hat RS485 + Relay de hasta 3A +Sensor Ambiental (Temperatura y Humedad) + HUB de Grove.
+
+El desarrollo que realices sobre estos equipos deben emplear los templates de conexión a Onesait Platform sobre el lenguaje Micropython. Los participantes podrán emplear uno de los siguientes IDEs Visual Studio Code + Plugin M5Stack, Ui Flow o Tonny.
+[Pendiente: **Revisar Onesait Platform**]
+[Listo: *Tonny ya está funcionando*] 
+
+4. Las Ideas y Equipos serán revisadas.
+[Pendiente: revisión externa]
+
+5. Los Participantes deberán generar dentro de su repositorio un archivo README.md donde indicarán:
+
+    1. Título de la Idea del desarrollo
+    2. Detalle de la idea
+    3. Instrucciones paso a paso para la conexión de los dispositivos y la carga del firmware si se emplean packs de IoT.
+[Listo: README.md creado]
+
+6. En el caso de desarrollar una Idea que emplee los packs proporcionados adicionalmente, será necesario incluir: el código micropyhton, los ficheros .m5 si son necesarios, los data sets de entreno y los ficheros de carga de modelo en k210.
+[Pendiente: hasta recibir los componentes]
+
+7. Los Participantes desarrollarán el código asociado a su idea
+[Pendiente: hasta recibir los componentes]
+
+Durante la duración del Concurso, los Participantes podrán preguntar dudas a la dirección de correo electrónico **innovators@onesaitplatform.com* indicando el Nombre del Equipo. El Concurso responderá al email de dudas en un plazo máximo de dos (2) días laborables.
+Los Participantes podrán utilizar la instancia CloudLab para hacer el desarrollo: https://lab.onesaitplatform.com/controlpanel/login registrando sus usuarios y creando un proyecto.
+[Pendiente: no sé de que se trata]
+Los Participantes podrán instalarse la versión community de plataforma y trabajar en local si su proyecto lo necesita.
+[Pendiente: no sé de que se trata]
+Los Participantes deberán proporcionar todo el código necesario (incluido ficheros de configuración si son necesarios) de forma que se pueda reproducir el desarrollo presentado de forma sencilla.
+[Pendiente: hasta recibir los componentes]
+
+8. Los Participantes accederán a la Plataforma del Concurso para registrar la Idea siguiendo las instrucciones generales descritas en el apartado general 8 sobre la Forma de presentación de Ideas.
+[Pendiente: ¿Cuál es el apartado 8?]
+
+Para que las Ideas presentadas en el Hack reto sean válidas deberán indicar la URL del repositorio de GitHub en el que han depositado el código asociado a su Idea.
+[Listo: URL informada]
