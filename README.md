@@ -5,7 +5,7 @@
 
 ###    **CEV Libertad y Compromiso al volante**
 
-    Merezco una nueva oportunidad, y no fallaré.
+   Merezco una nueva oportunidad, y no fallaré.
 
 
 ## 2. [Detalle de la idea](https://github.com/dgak050n/Innovators_2021/blob/main/2-Resumen-500)
